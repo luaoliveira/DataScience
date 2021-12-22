@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T19:17:55.450Z" agent="5.0 (X11)" version="16.0.2" etag="8MTbR3ZYoO3Jm11a4BFX" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-22T19:34:45.086Z" agent="5.0 (X11)" etag="bek6bhcZGqbIx-UO4uSh" version="16.0.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="770" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-0" target="1DUWsz7bOgzJlAn5lJXW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="210" />
+              <mxPoint x="90" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-0" target="1DUWsz7bOgzJlAn5lJXW-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="354" y="210" />
+              <mxPoint x="510" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="354" y="210" />
+              <mxPoint x="220" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-0" value="requisição da predição produto/categoria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-2" target="1DUWsz7bOgzJlAn5lJXW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-2" value="Venda do produto nos últimos 7 dias" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-3" target="1DUWsz7bOgzJlAn5lJXW-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-3" value="Previsão categoria para 7 dias" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-11" target="1DUWsz7bOgzJlAn5lJXW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-11" value="Estoque atual do produto" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-12" target="1DUWsz7bOgzJlAn5lJXW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-12" value="&lt;div&gt;Venda categoria nos ultimos 7 dias&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-13" target="1DUWsz7bOgzJlAn5lJXW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-13" value="&lt;div&gt;Cálculo da previsão&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-22" value="Saída em Json com resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
