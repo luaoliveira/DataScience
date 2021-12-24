@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T19:34:45.086Z" agent="5.0 (X11)" etag="bek6bhcZGqbIx-UO4uSh" version="16.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T17:24:57.984Z" agent="5.0 (X11)" etag="xQt98LHr0FtE6tkhUvg_" version="16.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="770" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -67,7 +67,7 @@
         <mxCell id="1DUWsz7bOgzJlAn5lJXW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1DUWsz7bOgzJlAn5lJXW-13" target="1DUWsz7bOgzJlAn5lJXW-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1DUWsz7bOgzJlAn5lJXW-13" value="&lt;div&gt;Cálculo da previsão&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1DUWsz7bOgzJlAn5lJXW-13" value="&lt;div&gt;Cálculo da recomendação de compra&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1DUWsz7bOgzJlAn5lJXW-22" value="Saída em Json com resposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
